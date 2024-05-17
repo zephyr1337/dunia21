@@ -13,7 +13,7 @@ date_default_timezone_set("Asia/Jakarta");
 
 class Scrape{
 
-	public $base_url = "https://dunia21.me";
+	public $base_url = "https://tv1.lk21official.mom";
 		
 	function Format_Menit($time, $format = '%02d:%02d') {
 		if ($time < 1) {
